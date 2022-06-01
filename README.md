@@ -1,5 +1,5 @@
 # pyqt-ani-button
-PyQt QPushButton for animation
+PyQt QPushButton for animation 
 
 ## Requirements
 * PyQt5 >= 5.8
@@ -43,4 +43,6 @@ Result
 
 https://user-images.githubusercontent.com/55078043/171344503-f092e025-8329-447a-a02e-a7ca88b5c859.mp4
 
+Perhaps this is not the animation you expected.
 
+I'm working on button which is able to do color transition animation.
